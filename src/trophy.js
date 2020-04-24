@@ -1,0 +1,1 @@
+let trophies = ['https://i.imgur.com/AIcmZNW.png'];
